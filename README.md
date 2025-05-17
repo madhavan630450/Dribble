@@ -1,6 +1,7 @@
 # Project Responsive Web Design using Bootstrap
 ## Date: 17/05/2025
-## Reg no: 212224040243
+## Name: MARIMUTHU MATHAVAN
+## Reg no: 212224230153
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
